@@ -1,2 +1,3 @@
 # linuxcg
-Im Visual FX and 3D artist
+For install
+Refer to the commits page for installing rlm
